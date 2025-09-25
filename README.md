@@ -1,0 +1,2 @@
+# lokal
+OSS GraphRAG Knowledgebase
